@@ -2,3 +2,5 @@ aldyt resolusi
 - konsisten membuat pemograman sehari 1X
 - membuat sebuah aplikasi mobile menggunakan flutter
 - ikut dalam forum atau perkumpulan programer flutter
+- membuat aplikasi mobile pencatat kebiasaan
+- bisa menjadi freelance perogramer flutter
